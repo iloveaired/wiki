@@ -1,5 +1,9 @@
 
 ### [node js로 놀기 & GitHub 시작하기](http://goo.gl/bEQa3K)
+```
+* nodejs.org 에서 다운로드
+* 
+```
   * 다큐먼트 http://bit.ly/afreeca201312
   * http://nodeqa.com/
   * https://github.com/joyent/node/wiki

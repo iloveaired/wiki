@@ -1,35 +1,3 @@
-### 
-* 쿨 [오픈소스 application 아키텍쳐](http://aosabook.org/en/index.html)
-* 
-
-* http://plnkr.co
-* [MEAN 스택 공부 목차](http://mobicon.tistory.com/388)
-* [D3 배우기](http://goo.gl/liLsbD)
-* [전체 분석해볼 블로그 자료 mobicon](http://mobicon.tistory.com)
-* 
-
-### 
-
-
-
-
-
-
-
-
-
-
-### MEAN
-#### Breeze
- * [Mean.js](https://github.com/meanjs/mean)
- * [Breeze tutorial](http://learn.breezejs.com/)
- * [Zza! Node/MongoDB](http://www.breezejs.com/samples/zza)
-
-
-
-
-
-
 ### GitHub 사용하기
  * [GitHub Page란 무엇인가?](https://help.github.com/categories/20/articles)
 
@@ -59,5 +27,4 @@
 * 38 page : git commit -a  <- 모든 변경된 파일 commit
 * commit된 후에 변경된 파일 변경후 다시 commit 된 상태파일 가져오기(다시 원복)
 > git checkout app/index.html
-
 
