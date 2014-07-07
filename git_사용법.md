@@ -28,3 +28,19 @@
 * commit된 후에 변경된 파일 변경후 다시 commit 된 상태파일 가져오기(다시 원복)
 > git checkout app/index.html
 
+
+* Create a new repository on the command line
+```
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/iloveaired/okandroid.git
+git push -u origin master
+```
+
+* Push an existing repository from the command line 
+```
+git remote add origin https://github.com/iloveaired/okandroid.git
+git push -u origin master
+```

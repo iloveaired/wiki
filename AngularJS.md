@@ -25,7 +25,10 @@
  
  
 
+* [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+> * 실제로 실습하면서 step-by-step 가능
 
+* 
 
 
 #### 동영상 고급
@@ -36,7 +39,8 @@
  compile function : template modify 용도 
  
 
-
+ * [Introducing Synth - A new Node.js web framework designed just for ](http://goo.gl/QudN0n)
+> * Synth --> http://www.synthjs.com/ angular | Ember |Backbone
 
 
 
@@ -50,4 +54,13 @@
 * * [sublime 관련] (http://windtale.net/blog/sublime-text-tip/)
 * http://www.hans.or.kr/2014/01/sublime-text-10.html
 ### 잡다
-* [A Practical Guide to AngularJS Directives] (http://goo.gl/f4T1GN)
+* [A Practical Guide to AngularJS Directives part 1/2] (http://goo.gl/f4T1GN)
+> * compile function does not receive a scope
+ * isolated scope
+
+
+### 국내 블로그 
+ * [[AngularJS] 배우는 방법 & 기본 개념 잡기](http://mobicon.tistory.com/281)
+
+
+* 
