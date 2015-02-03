@@ -57,6 +57,9 @@ $ find . -type d
 
 
 ### [안드로이드 이야기 #2 2](http://goo.gl/372mxG)
+> * balasmiq : mockup 툴
+45분까지...
+
 
 
 

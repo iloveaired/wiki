@@ -20,7 +20,8 @@
 * [Pro Git 설명](http://mobicon.tistory.com/182)
 * [git 기초 쿨 해외 블로그](http://rogerdudler.github.io/git-guide/index.ko.html)
 * [svn git 비교](http://www.slideshare.net/einsub/svn-git-17386752)
-#### git 명령어
+
+### git 명령어
 > * git checkout -b step-2  <--  branch, checkout 동시에
 * git branch <-- branch 리스트 보기
 
@@ -44,3 +45,6 @@ git push -u origin master
 git remote add origin https://github.com/iloveaired/okandroid.git
 git push -u origin master
 ```
+
+### TIP
+ *  [.gitignore 자동생성](http://www.gitignore.io/cli)

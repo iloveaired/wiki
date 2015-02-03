@@ -59,6 +59,8 @@
  * isolated scope
 
 
+* [어디서부터 시작하나] - http://blog.whydoifollow.com/post/angularjs-where-to-start
+
 ### 국내 블로그 
  * [[AngularJS] 배우는 방법 & 기본 개념 잡기](http://mobicon.tistory.com/281)
 
