@@ -2,24 +2,14 @@
  * [GitHub Page란 무엇인가?](https://help.github.com/categories/20/articles)
 
 
-### 자바이야기1
- *http://goo.gl/FymS1a
-
-
-### 추천자바 자료
-* http://opentutorials.org/module/516
-* http://www.jabook.com
-* https://wikidocs.net/book/31
-* http://www.vogella.com/tutorials/java.html  (중급)
-* http://docs.oracle.com/javase
-* http://docs.oracle.com/javase/tutorial/reallybigindex.html
-* http://cafe.naver.com/prvd
 
 ### git 자료
 * [git 게임으로 따라하기](http://learnbranch.urigit.com/)
 * [Pro Git 설명](http://mobicon.tistory.com/182)
 * [git 기초 쿨 해외 블로그](http://rogerdudler.github.io/git-guide/index.ko.html)
 * [svn git 비교](http://www.slideshare.net/einsub/svn-git-17386752)
+* [누구나 쉽게따라하는  ](https://backlogtool.com/git-guide/kr/intro/intro1_1.html)
+
 
 ### git 명령어
 > * git checkout -b step-2  <--  branch, checkout 동시에
